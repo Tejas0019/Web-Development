@@ -1,0 +1,17 @@
+body{
+    background-color:rgba(234, 192, 160, 0.621);
+}
+h1{
+    color:red;
+    text-align: center;
+}
+h2{
+    color:green;
+}
+p{
+    color: #24bad4;
+   font-size: 50px; 
+}
+h3{
+    color :bisque;
+}
